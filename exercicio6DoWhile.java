@@ -26,7 +26,7 @@ public class exercicio6DoWhile {
 		}
 		while (num != 0);
 		
-		media = (float)somaMedia;
+		media = (float) somaMedia;
 		System.out.println("\nA média dos números múltiplos de 3 é: "+ media);
 		
 	}
