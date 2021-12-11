@@ -18,7 +18,8 @@ public class exercicio5DoWhile {
 			x =leia.nextInt();
 
 
-		}while(x!=0);
+		}
+		while(x!=0);
 
 		System.out.println("A soma dos números foi de: "+soma);
 
